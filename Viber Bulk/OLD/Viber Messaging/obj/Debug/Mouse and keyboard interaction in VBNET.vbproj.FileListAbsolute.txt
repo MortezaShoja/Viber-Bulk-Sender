@@ -1,0 +1,10 @@
+D:\_Исходники\__Codeproject\Keyboard and mouse interaction\Mouse and keyboard interaction in VBNET\bin\Debug\Mouse and keyboard interaction in VBNET.exe
+D:\_Исходники\__Codeproject\Keyboard and mouse interaction\Mouse and keyboard interaction in VBNET\bin\Debug\Mouse and keyboard interaction in VBNET.pdb
+D:\_Исходники\__Codeproject\Keyboard and mouse interaction\Mouse and keyboard interaction in VBNET\bin\Debug\Mouse and keyboard interaction in VBNET.xml
+D:\_Исходники\__Codeproject\Keyboard and mouse interaction\Mouse and keyboard interaction in VBNET\obj\Debug\ResolveAssemblyReference.cache
+D:\_Исходники\__Codeproject\Keyboard and mouse interaction\Mouse and keyboard interaction in VBNET\obj\Debug\Mouse_and_keyboard_interaction_in_VBNET.Form1.resources
+D:\_Исходники\__Codeproject\Keyboard and mouse interaction\Mouse and keyboard interaction in VBNET\obj\Debug\Mouse_and_keyboard_interaction_in_VBNET.Resources.resources
+D:\_Исходники\__Codeproject\Keyboard and mouse interaction\Mouse and keyboard interaction in VBNET\obj\Debug\Mouse and keyboard interaction in VBNET.vbproj.GenerateResource.Cache
+D:\_Исходники\__Codeproject\Keyboard and mouse interaction\Mouse and keyboard interaction in VBNET\obj\Debug\Mouse and keyboard interaction in VBNET.exe
+D:\_Исходники\__Codeproject\Keyboard and mouse interaction\Mouse and keyboard interaction in VBNET\obj\Debug\Mouse and keyboard interaction in VBNET.xml
+D:\_Исходники\__Codeproject\Keyboard and mouse interaction\Mouse and keyboard interaction in VBNET\obj\Debug\Mouse and keyboard interaction in VBNET.pdb
